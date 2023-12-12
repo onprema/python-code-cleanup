@@ -14,6 +14,24 @@ for i in range(len(fruits)):
     print(fruits[i])
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 print("Example 2: Checking if an element is in a list")
 veggies = ["squash", "corn", "peas"]
 
@@ -27,6 +45,23 @@ for veggie in veggies:
     if veggie == "corn":
         has_corn = True
 print(has_corn)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 print("Example 3: Checking if all items in a list exist")
@@ -44,6 +79,29 @@ for count in attendance_count:
 print(attendees)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 print("Example 4: Comparisons")
 calculation_complete = False
 
@@ -54,6 +112,29 @@ if not calculation_complete:
 # Not this
 if calculation_complete == False:
     print('Calculation is not complete')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 print("Example 5: List comprehensions")
@@ -71,6 +152,29 @@ for num in numbers:
 print(even_numbers)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 print("Example 6: Reading from a file")
 file_name = "README.md"
 
@@ -84,6 +188,29 @@ print(readme.name)
 readme.close()
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 print("Example 7: String formatting")
 favorite_fruit = "nectarine"
 
@@ -92,3 +219,26 @@ print(f'My favorite fruit is the {favorite_fruit}')
 
 # Not this
 print('My favorite fruit is the {}'.format(favorite_fruit))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
